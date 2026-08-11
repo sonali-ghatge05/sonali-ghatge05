@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about building practical software projects, learning new technologies, and solving real-world problems through code.
 
-- 🔭 Currently working on **Customer Retention System**
+- 🔭 Currently working on last year project
 - 🌱 Currently learning **Machine Learning, Flask & Full-Stack Development**
 - 💡 Interested in **Software Development, Data Analysis & AI/ML**
 - 💬 Ask me about **Python, SQL, Flask & Web Development**
