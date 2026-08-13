@@ -44,7 +44,8 @@ I'm a Computer Science student passionate about building practical software proj
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonali-ghatge05&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonali-ghatge05&theme=tokyonight)
+
 
 ---
 
