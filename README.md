@@ -45,11 +45,6 @@ I'm a Computer Science student passionate about building practical software proj
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonali-ghatge05&theme=tokyonight)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonali-ghatge05&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonali-ghatge05&theme=tokyonight)
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=sonali-ghatge05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <!-- Activity Graph -->
