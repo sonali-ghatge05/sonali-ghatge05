@@ -41,14 +41,17 @@ I'm a Computer Science student passionate about building practical software proj
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🚀 GitHub Profile Stats
 
-## 🔥 GitHub Streak & Stats
-
+<!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonali-ghatge05&theme=tokyonight)
 
+<!-- Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonali-ghatge05&show_icons=true&theme=tokyonight)
+
+<!-- Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonali-ghatge05&theme=tokyo-night)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonali-ghatge05&show_icons=true&theme=tokyonight)
 
 
 
