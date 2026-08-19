@@ -42,10 +42,14 @@ I'm a Computer Science student passionate about building practical software proj
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak & Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonali-ghatge05&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sonali-ghatge05&theme=tokyo-night)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonali-ghatge05&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonali-ghatge05&show_icons=true&theme=tokyonight)
+
 
 
 
