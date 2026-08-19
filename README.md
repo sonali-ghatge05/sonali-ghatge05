@@ -41,14 +41,15 @@ I'm a Computer Science student passionate about building practical software proj
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🚀 GitHub Profile Stats
+## 📊 GitHub Stats
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=sonali-ghatge05&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonali-ghatge05&theme=tokyonight)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonali-ghatge05&theme=tokyonight)
 
-<!-- Stats Card -->
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sonali-ghatge05&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonali-ghatge05&theme=tokyonight)
+
+![Contributions](https://github-contributor-stats.vercel.app/api?username=sonali-ghatge05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <!-- Activity Graph -->
